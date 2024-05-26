@@ -4,9 +4,9 @@ The following code, along with the accompanying files, constitutes the primary d
 
 This code is a modified version of the original work by Fauzia Khanum et al. from McMaster University, titled [State of Charge Estimation Function based on Kalman Filter](https://www.mathworks.com/matlabcentral/fileexchange/90381-state-of-charge-estimation-function-based-on-kalman-filter)
 
-Several modifications have been made to adapt the code to a different battery dataset from the same university, which is available on [Mendeley Data](https://data.mendeley.com/datasets/9xyvy2njj3/1).
+Several modifications have been made to adapt the code to a different battery dataset from the same university, which is available on [Mendeley Data - Samsung INR21700 30T 3Ah Li-ion Battery Dataset](https://data.mendeley.com/datasets/9xyvy2njj3/1).
 
-The "Battery Datasets" folder is divided into "Preprocessed Dataset" and "Raw Dataset" subfolders. The Preprocessed Dataset folder contains a list of input data for machine learning training. Please do not modify these files. The Raw Dataset folder contains the original dataset as collected from Mendeley Data.
+The "Battery Datasets" folder is divided into "Preprocessed Dataset" and "Raw Dataset" subfolders. The Preprocessed Dataset folder contains a list of input data for machine learning training. Please do not modify these files. The Raw Dataset folder contains the original Samsung INR21700 30T 3Ah Li-ion Battery Dataset.
 
 The "Original Code" folder includes the original works by Fauzia Khanum and her colleagues.
 

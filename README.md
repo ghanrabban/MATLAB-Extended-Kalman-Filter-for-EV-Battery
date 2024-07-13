@@ -1,6 +1,6 @@
 # MATLAB Extended Kalman Filter for Battery State of Charge Estimation
 
-The following code along with the [accompanying files](https://github.com/ghanrabban/MATLAB-Feedforward-Deep-Neural-Network-for-EV-Battery), constitutes the primary dataset for the forthcoming research titled "DSP-Based Estimation of Battery State of Charge: Comparative Study on Extended Kalman Filter and Feedforward Deep Neural Networks," which will be published in the Heliyon Open Journal.
+The following code along with the [accompanying files](https://github.com/ghanrabban/MATLAB-Feedforward-Deep-Neural-Network-for-EV-Battery), constitutes the primary dataset for the forthcoming research titled "DSP-Based Estimation of Battery State of Charge: Comparative Study on Extended Kalman Filter and Feedforward Deep Neural Networks," which the preprint version has been published at [Heliyon First Look](https://dx.doi.org/10.2139/ssrn.4881808)
 
 This code is a modified version of the original work by Fauzia Khanum et al. from McMaster University, titled [State of Charge Estimation Function based on Kalman Filter](https://www.mathworks.com/matlabcentral/fileexchange/90381-state-of-charge-estimation-function-based-on-kalman-filter)
 
